@@ -1,0 +1,46 @@
+Ingredientes ( 4 ovos, 1 xicara de leite, 1 xicara de óleo, 1/2 xicara de açúcar, 2 xicara de farinha branca,
+ 1 colher de sopa rasa de fermento, 1 xicara de chocolate do padre)
+
+Passos:
+    - Va para a cozinha
+    - Executar o algoritmo (Lavar as mãos)
+    - Abrir a geladeira
+    - Pegar os 4 ovos
+    - Colocar os ovos no balcão
+    - Pegar a caixa de leite
+    - Colocar a caixa de leite no balcão
+    - Fechar a geladeira
+    - Abrir o armário
+    - Pegar o pote/saco de açucar
+    - Colocar o pote/saco de açucar no balcão
+    - Pegar o pacote de farinha
+    - Colocar o pacote de farinha no balcão
+    - Pegar a garrafa de óleo
+    - Pegar o chocolate do padre
+    - Colocar o óleo e o chocolate do padre no balcão
+    - Pegar o fermento e uma tigela
+    - Colocar o fermento e a tigela no balcão
+    - Pegar a xicara a colher e o fue
+	- Colocar a xicara a colher e o fue no balcão
+	- Quebra os ovos em uma tigela 
+	- colocar o leite na xícara 
+	- despejar a xícara de leite na tigela
+	- colocar o óleo na xícara
+	- despejara xicara de óleo na tigela 
+	- colocar o chocolate na xícara
+	- despejar a xicara chocolate na tigela
+	- misturar ate ficar homogênio
+	- colocar o açúcar até a metade da xícara
+	- despejar a xicara açúcar na tigela
+	- colocar a farinha em duas xícaras
+	- despejar as xicaras de farinha na tigela
+	- pegar uma colher e colocar fermento 
+	- e colocar na tigela
+	- misturar novamente até ficar homogênio
+	- untar a forma 
+	- despejar a massa na forma
+	- colocar para assar 
+	- esperar assar por completo
+	- retirar do forno 
+	- repartir e comer
+	
